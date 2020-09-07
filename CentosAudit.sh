@@ -1,5 +1,5 @@
 #!/bin/bash
-#Description: Project 11
+#Description: Centos 7 Audit
 #Author: Cyprien
 #Date: August 2020
 
